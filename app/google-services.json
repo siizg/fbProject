@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551830434856",
+    "project_id": "fbmes-a0996",
+    "storage_bucket": "fbmes-a0996.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551830434856:android:bec25a5ead95eb1046f11d",
+        "android_client_info": {
+          "package_name": "com.example.fb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551830434856-qku7ssjvbau40ts0udblmlbonqh5crm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE128RKdNxy0gkvsN3tO_AkJOQg7vmmdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551830434856-qku7ssjvbau40ts0udblmlbonqh5crm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
